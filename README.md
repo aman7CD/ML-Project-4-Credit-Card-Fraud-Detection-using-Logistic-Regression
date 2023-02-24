@@ -1,2 +1,2 @@
 # ML-Project-4-[Credit Card Fraud Detection using Logistic Regression]
-Used Logistic Regression to detect a fraud customer among genuine customers.
+Used credit card's data of genuine and fraudulant customers to analyze LogisticRegression algorithm's working and accuracy on identifying a fraud customer  .
